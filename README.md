@@ -8,5 +8,5 @@
 # 2. Herrmann brain 특성도
   김경진 : C (<img src="C:\Users\김경진\Desktop\스마트모바일프로그램 설계\01주차\하르만_특성도.jpg" alt="Herrmann_brain_kj"></img>)   
   박유리 :  ()   
-  이혜정 : A ()
+  이혜정 : A (![Hermann brain 특성도 hj](C:\Users\김경진\Desktop\스마트모바일프로그램 설계\01주차\혜정이_특성도.png))
   홍수빈 :  ()
