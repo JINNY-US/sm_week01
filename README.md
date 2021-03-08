@@ -10,8 +10,8 @@
   ![Herrmann_brain](https://user-images.githubusercontent.com/57963888/110299358-e8f7a600-8038-11eb-8157-722e89ea0ebc.jpg)   
   ***   
   
-  박유리 :  ()  
-     
+  박유리 : C  
+  
   ***   
   
   이혜정 : A   
