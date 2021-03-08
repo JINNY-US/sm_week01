@@ -18,10 +18,12 @@
   홍수빈 : A   
   ![KakaoTalk_20210308_172535589](https://user-images.githubusercontent.com/76034369/110294599-65878600-8033-11eb-9206-55f5aae1f11a.png)     
   
-아니 이미지 첨부 어떻게 해
+# 2. Android Studio Test   
+  김경진   
+  박유리   
+  이혜정   
+  홍수빈   
 
 
-
-
-
+   
 템플릿 참고 링크 : https://gist.github.com/ihoneymon/652be052a0727ad59601
