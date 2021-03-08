@@ -7,7 +7,7 @@
   스마트정보통신공학과 201921104 홍수빈   
 # 2. Herrmann brain 특성도
   김경진 : C   
-  ![Herrmann_brain](https://user-images.githubusercontent.com/57963888/110298133-923d9c80-8037-11eb-8a95-22ac62182b93.jpg)   
+  ![Herrmann_brain](https://user-images.githubusercontent.com/57963888/110298467-f95b5100-8037-11eb-8ade-34f4688bd45c.jpg)   
   박유리 :  ()   
   이혜정 : A (![Hermann brain 특성도 hj](C:\Users\김경진\Desktop\스마트모바일프로그램 설계\01주차\혜정이_특성도.png))   
   홍수빈 : A   
