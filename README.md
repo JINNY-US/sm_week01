@@ -8,13 +8,13 @@
 # 2. Herrmann brain 특성도
   김경진 : C   
   ![Herrmann_brain](https://user-images.githubusercontent.com/57963888/110299358-e8f7a600-8038-11eb-8157-722e89ea0ebc.jpg)
-      ==========   
+         
   박유리 :  ()  
      
-  =================   
+     
   이혜정 : A   
   ![혜정_Herrmann](https://user-images.githubusercontent.com/57963888/110299127-aa61eb80-8038-11eb-9b8d-f5fe942c11d5.jpg)  
-     ===================   
+        
   홍수빈 : A   
   ![KakaoTalk_20210308_172535589](https://user-images.githubusercontent.com/76034369/110294599-65878600-8033-11eb-9206-55f5aae1f11a.png)     
   
