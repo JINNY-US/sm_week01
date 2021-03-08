@@ -9,7 +9,8 @@
   김경진 : C   
   ![Herrmann_brain](https://user-images.githubusercontent.com/57963888/110298467-f95b5100-8037-11eb-8ade-34f4688bd45c.jpg)   
   박유리 :  ()   
-  이혜정 : A (![Hermann brain 특성도 hj](C:\Users\김경진\Desktop\스마트모바일프로그램 설계\01주차\혜정이_특성도.png))   
+  이혜정 : A   
+  ![혜정_Herrmann](https://user-images.githubusercontent.com/57963888/110299127-aa61eb80-8038-11eb-9b8d-f5fe942c11d5.jpg)   
   홍수빈 : A   
   ![KakaoTalk_20210308_172535589](https://user-images.githubusercontent.com/76034369/110294599-65878600-8033-11eb-9206-55f5aae1f11a.png)     
   
