@@ -11,7 +11,7 @@
   ***   
   
   박유리 : C  
-  
+  ![유리_Herrmann](https://user-images.githubusercontent.com/57963888/110300975-eac26900-803a-11eb-9181-c684404e8850.jpg)   
   ***   
   
   이혜정 : A   
