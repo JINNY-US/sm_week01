@@ -35,5 +35,3 @@
   ![Android_수빈](https://user-images.githubusercontent.com/57963888/110301838-ec406100-803b-11eb-9596-52c08b36340c.jpg)   
 
 
-   
-템플릿 참고 링크 : https://gist.github.com/ihoneymon/652be052a0727ad59601
