@@ -28,7 +28,8 @@
   박유리   
   
   이혜정   
-  
+  ![Android_혜정](https://user-images.githubusercontent.com/57963888/110301726-c0bd7680-803b-11eb-98a2-8911940ffc4c.jpg)   
+  ***   
   홍수빈   
 
 
