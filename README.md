@@ -23,10 +23,11 @@
   
 # 3. Android Studio Test   
   김경진   
-  ![Android_경진](https://user-images.githubusercontent.com/57963888/110301481-7c31db00-803b-11eb-823c-b85860b939f6.jpg)   
+  ![Android_경진](https://user-images.githubusercontent.com/57963888/110302278-696bd600-803c-11eb-880c-484a41f1b574.jpg)   
   ***   
   박유리   
   
+  ***   
   이혜정   
   ![Android_혜정](https://user-images.githubusercontent.com/57963888/110301726-c0bd7680-803b-11eb-98a2-8911940ffc4c.jpg)   
   ***   
