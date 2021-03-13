@@ -23,6 +23,7 @@
   홍수빈 : A   
   ![KakaoTalk_20210308_172535589](https://user-images.githubusercontent.com/76034369/110294599-65878600-8033-11eb-9206-55f5aae1f11a.png)  
   
+  
   이준석 : C
   ![Inked](https://user-images.githubusercontent.com/79889548/111032724-f8b82580-8450-11eb-82d8-9bcfb60d909e.jpg)
 
