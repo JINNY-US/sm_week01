@@ -40,5 +40,9 @@
   ***   
   홍수빈   
   ![Android_수빈](https://user-images.githubusercontent.com/57963888/110301838-ec406100-803b-11eb-9596-52c08b36340c.jpg)   
+  
+  ***
+  이준석
+  ![캡처1](https://user-images.githubusercontent.com/79889548/111032807-65332480-8451-11eb-9f72-da8568d24301.PNG)
 
 
